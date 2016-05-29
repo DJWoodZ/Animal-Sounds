@@ -8,8 +8,9 @@
   },
   "keywords": [
     "animal",
-    "noises",
-    "game"
+    "sounds",
+    "game",
+    "phaser"
   ],
   "author": "DJ WoodZ",
   "license": "MIT",
