@@ -4,8 +4,9 @@
   "description": "Simple game for small children",
   "main": "src/js/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "test": "gulp lint",
+    "install": "gulp"
+  }
   "keywords": [
     "animal",
     "sounds",
